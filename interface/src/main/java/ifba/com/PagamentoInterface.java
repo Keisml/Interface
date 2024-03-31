@@ -2,6 +2,6 @@ public interface PagamentoInterface {
         void realizarPagamento();
         void extornarPagamento();
         void agendarPagamento();
-        void imprimirComprovante();
+        void imprimirComprovante(1);
 
     }
